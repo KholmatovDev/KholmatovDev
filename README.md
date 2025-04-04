@@ -1,25 +1,87 @@
-<h1 align="center">Hi 👋, I'm Rahmatulloh Kholmatov</h1>
-<h3 align="center">A passionate mobile developer from Uzbekistan</h3>
+# 💼 Rahmatulloh Kholmatov
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kholmatovdev&label=Profile%20views&color=0e75b6&style=flat" alt="kholmatovdev" /> </p>
+**Flutter Developer | Mobile & Web Enthusiast**
 
-- 🔭 I’m currently working on **Readify**
+📍 Quva, Fergana | 📨 rahmatulloh@example.com | 📱 +998 90 123 45 67  
+🌐 GitHub: [github.com/KholmatovDev](https://github.com/KholmatovDev)  
+💬 Telegram: [@whats_gpt_say](https://t.me/whats_gpt_say)
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/kholmatovdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="kholmatovdev" height="30" width="40" /></a>
-<a href="https://instagram.com/xr_coder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xr_coder" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/xrcoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="xrcoder" height="30" width="40" /></a>
-</p>
+## 🧠 Skills
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
+### ⚙️ Flutter (Dart)
+- **State Management:** BloC / Cubit, Provider, Riverpod
+- **Networking:** Dio, WebSocket, Socket.io
+- **Storage:** Hive, SharedPreferences
+- **UI/UX:** Animations, Lottie, Responsive Layouts, Material Design
+- **Others:** Custom Widgets, Navigation, Dark/Light Mode, Platform Channels
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kholmatovdev&show_icons=true&locale=en&layout=compact" alt="kholmatovdev" /></p>
+### 🖥 Programming Languages
+- Dart
+- JavaScript
+- Java
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kholmatovdev&show_icons=true&locale=en" alt="kholmatovdev" /></p>
+### 🧰 Tools & Platforms
+- Git, GitHub
+- VS Code, Android Studio
+- Postman, Figma (for UI reference)
+- Android, Web, Windows (Flutter Desktop)
 
+---
+
+## 🧑‍💻 Projects
+
+### 🔹 Remote Keyboard (PC & Android)
+> Mobil qurilmadan kompyuterni boshqarish ilovasi.
+
+- Real-time aloqa: WebSocket orqali
+- Flutter (Android) + Python (Desktop server)
+- [GitHub Link](https://github.com/KholmatovDev/remote_keyboard)
+
+### 🔹 Task Planner
+> Oddiy va chiroyli todo app.
+
+- SQLite bilan lokal data
+- Lottie animatsiyalar, Dark/Light rejim
+- Xabarnomalar (notifications)
+
+---
+
+## 🎓 Education
+
+**📘 48-maktab, Quva tuman (Oliy sinf o‘quvchisi)**  
+_2020 - hozirgacha_
+
+---
+
+## 💼 Work Experience
+
+**👨‍🔧 Freelance Flutter Developer**  
+_2024 - hozirgacha_
+
+- Flutter orqali kichik va o‘rta darajadagi ilovalar yaratgan.
+- Buyurtmalar asosida yechim ishlab chiqqan.
+
+---
+
+## 🏆 Achievements
+
+- ✅ 10+ real loyihalar yaratgan
+- ✅ Flutter + WebSocket texnologiyalari asosida ishlangan tizimlar
+- ✅ GitHub'da aktiv faoliyat
+
+---
+
+## 📌 Languages
+
+- 🇺🇿 Uzbek – Ona tili  
+- 🇷🇺 Russian – O‘rganmoqda  
+- 🇬🇧 English – Texnik matnlar uchun yetarli
+
+---
+
+## 🔗 Let's Connect!
+
+> 🚀 Присоединяйтесь к каналу: [@whats_gpt_say](https://t.me/whats_gpt_say)  
+> 🧠 RAM
