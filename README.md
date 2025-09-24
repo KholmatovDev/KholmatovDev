@@ -2,8 +2,8 @@
 
 **Flutter Developer | Mobile & Web Enthusiast**
 
-📍 Quva, Fergana | 📨 kholmatov.dev@gmail.com | 📱 +998 90 123 45 67  
-🌐 GitHub: [github.com/KholmatovDev](https://github.com/KholmatovDev)  
+📍 Quva, Fergana | 📨 kholmatov.dev@gmail.com | 📱 +998 911260129
+
 
 
 ---
