@@ -30,22 +30,6 @@
 
 ---
 
-## 🧑‍💻 Projects
-
-
----
-
-## 💼 Work Experience
-
----
-
-## 🏆 Achievements
-
-- ✅ 5+ real loyihalar yaratgan
-- ✅ GitHub'da aktiv faoliyat
-
----
-
 ## 📌 Languages
 
 - 🇺🇿 Uzbek – Native
